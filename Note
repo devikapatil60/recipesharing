@@ -1,1 +1,2 @@
 So my project is TasteHub where any user can share its recipe through login its email address and can download recipe-card offline,so to login for new user first they have to register and then can add new recipes also to edit or delete any recipe it is possible to only owner of the recipe
+Backend is connected to mongodb atlas where all users and recipes data will be stored
